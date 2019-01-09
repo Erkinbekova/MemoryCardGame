@@ -1,0 +1,6 @@
+.root{
+    -fx-background-image:url("game.jpg");
+    -fx-background-repeat: stretch;   
+    -fx-background-size: 1366 768;
+    -fx-background-position: center center;
+}

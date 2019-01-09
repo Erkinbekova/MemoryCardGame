@@ -1,0 +1,6 @@
+.root {
+    -fx-background-image:url("Instructions.jpg");
+    -fx-background-repeat: stretch;   
+    -fx-background-size: 576 412;
+    -fx-background-position: center center;
+}

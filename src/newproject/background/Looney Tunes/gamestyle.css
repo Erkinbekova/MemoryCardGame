@@ -1,0 +1,20 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 13, 2016, 7:22:57 PM
+    Author     : Dell
+*/
+
+.root{
+    -fx-font-size: 10pt;
+    -fx-font-family: "Courier New";
+    -fx-background: rgb(225, 228, 203);
+    -fx-background-image:url("game.jpg");
+    -fx-background-repeat: stretch;   
+    -fx-background-size: 1366 768;
+    -fx-background-position: center center;
+    -fx-effect: dropshadow(three-pass-box, blue, 30, 1, 0, 0); 
+}
